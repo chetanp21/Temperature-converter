@@ -1,1 +1,2 @@
 # Temperature-converter
+A temperature converter project is a tool designed to help users convert temperatures from one unit of measurement to another. The project typically includes a simple user interface where users can input a temperature in Celsius, Fahrenheit and then choose the desired output unit. The converter then performs the necessary calculation and displays the converted temperature.The application can build with html,css and javascript 
